@@ -21,20 +21,20 @@
 
 
 module.exports = {
-  TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  TOKEN: "MTIzODE4NDc2MjU3MzU5MDYxOQ.GKgvfU.rxV4HLQLSMBXFjvyEJaudQJwm5T2bePCNA0GS8",
+  ownerID: ["611155271133298708", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
-  commandsDir: './commands',
+  status: 'MusiTigre',
+  commandsDir: './comandos',
   language: "en",
   embedColor: "00fbff",
   errorLog: "",
 
 
   sponsor: {
-    status: true,
+    status: false,
     url: "https://www.youtube.com/@GlaceYT",
   },
 
